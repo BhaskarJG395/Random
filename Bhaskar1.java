@@ -1,4 +1,4 @@
-public static void main(String arr[])
+A;LSDKFJpublic static void main(String arr[])
 {
 SOUT\(
 }
